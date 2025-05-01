@@ -1,1 +1,1 @@
-# vini.ia
+# vini.ia é um agente inteligente focado na proteção de comunicações corporativas contra ataques de engenharia social, phishing e domínios falsos (domain look-alike). Integrado aos principais canais digitais da empresa, ele atua em tempo real na detecção de ameaças, validação de assinaturas digitais e educação contínua dos usuários.
